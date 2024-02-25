@@ -1,5 +1,5 @@
-streamlit-webrtc
-streamlit
-torch
 Pillow
-opencv-python-headless
+torch
+numpy
+opencv-python
+torchvision
